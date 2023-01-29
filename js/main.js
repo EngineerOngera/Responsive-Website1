@@ -7,4 +7,12 @@ $('.slider').ripples({
     
   });
 
+  $('.text').typed({
+    strings:["First sentence.", "Second sentence"],
+    typespeed:0,
+    loop:true
+
+
+  })
+
 })
